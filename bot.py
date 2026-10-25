@@ -1,4 +1,4 @@
-import telebot # библиотека telebo
+import telebot # библиотека telebot
 from config import token # импорт токена
 
 bot = telebot.TeleBot(token) 
